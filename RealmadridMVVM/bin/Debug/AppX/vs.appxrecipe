@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MOHAMMEDJOS766C</Machine>
+    <WindowsUser>MJPS</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4a642145-ed80-4eb3-8986-f92e4d7a4827</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>E1C16F1B2C40100B7C33E73191894664F0FD186299481BFBD0330BD8A38F35BD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4a642145-ed80-4eb3-8986-f92e4d7a4827_1.0.0.0_neutral__b8h6h8yrz48yj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4a642145-ed80-4eb3-8986-f92e4d7a4827_b8h6h8yrz48yj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4a642145-ed80-4eb3-8986-f92e4d7a4827</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=MJPS</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-14T12:42:26.008</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\bin\Debug\RealmadridMVVM.exe">
+      <PackagePath>RealmadridMVVM.exe</PackagePath>
+      <Modified>2014-11-15T17:06:16.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-07T12:39:35.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-10T13:52:44.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\bin\Debug\RealmadridMVVM.xr.xml">
+      <PackagePath>RealmadridMVVM.xr.xml</PackagePath>
+      <Modified>2014-11-07T12:50:07.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\MJPS\documents\visual studio 2013\Projects\RealmadridMVVM\RealmadridMVVM\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-14T12:42:25.821</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
