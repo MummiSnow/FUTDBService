@@ -16,10 +16,9 @@ namespace RealmadridMVVM.ViewModel
         {
             Clubs = new ObservableCollection<Club>() {new Club("Real Madrid", "Spanish", "Primera Division",1980),
                 new Club("Liverpool", "English", "Premier League",1880)};
-            Players = new ObservableCollection<Player>() {new Player("Cristiano Ronaldo", 7, 29, "LeftWinger/Midfield")};
+           
             
-            Players = new ObservableCollection<Player>(){new Player("Mummi",7,20,"VM")};
-
+            
         }
 
 
